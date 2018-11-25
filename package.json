@@ -1,0 +1,26 @@
+{
+  "name": "wood-querysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jlego@github.com/jlego/wood-querysql.git"
+  },
+  "keywords": [
+    "wood-querysql"
+  ],
+  "author": "jlego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlego/wood-querysql/issues"
+  },
+  "homepage": "https://github.com/jlego/wood-querysql#readme",
+  "dependencies": {
+    "mongo-sql": "^6.2.0",
+    "wood-util": "^1.0.8"
+  }
+}
