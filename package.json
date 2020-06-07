@@ -1,6 +1,6 @@
 {
   "name": "wood-querysql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/jlego/wood-querysql#readme",
   "dependencies": {
     "mongo-sql": "^6.2.0",
-    "wood-util": "^1.0.8"
+    "wood-util": "^1.0.17"
   }
 }
